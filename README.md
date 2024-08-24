@@ -8,5 +8,5 @@
 
 ## Backend
 
-- Express - To build api
+- Express - For build api
 - Drizzle/Postgres - Database Management
